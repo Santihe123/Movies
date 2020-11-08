@@ -831,6 +831,7 @@ footer {
   margin: 50px auto;
   width: 800px;
   height: 500px;
+ border:none;
 }
 
  @media (max-width: 1299px) {
