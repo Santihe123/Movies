@@ -836,7 +836,7 @@ footer {
  @media (max-width: 1299px) {
   .Video_reproductor_row iframe{ 
   margin: 50px auto;
-  width: 300px;
+  width: auto;
   height: 500px;
   }
  }
