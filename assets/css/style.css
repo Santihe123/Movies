@@ -832,3 +832,11 @@ footer {
   width: 800px;
   height: 500px;
 }
+
+ @media (max-width: 1299px) {
+  .Video_reproductor_row iframe{ 
+  margin: 50px auto;
+  width: 300px;
+  height: 100px;
+  }
+ }
