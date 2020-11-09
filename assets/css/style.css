@@ -821,15 +821,15 @@ footer {}
 
 .Video_reproductor_row iframe{
   margin: 50px auto;
-  width: 800px;
-  height: 500px;
+  min-width: 800px;
+  min-height: 500px;
  border:none;
 }
 
  @media (max-width: 1299px) {
   .Video_reproductor_row iframe{ 
   margin: 50px auto;
-  width: auto;
-  height: 500px;
+  min-width: auto;
+  min-height: 500px;
   }
  }
